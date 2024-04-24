@@ -17,6 +17,12 @@ P2: 把算法用 L 语言表达，规定好要用到的 vocabulary。为算法�
 
 #comp2111 #unsw
 
+![1](https://github.com/CSPRJSV/COMP2111-A3-Hoare-Logic-Algorithm/blob/main/1.png)
+![2](https://github.com/CSPRJSV/COMP2111-A3-Hoare-Logic-Algorithm/blob/main/2.png)
+![3](https://github.com/CSPRJSV/COMP2111-A3-Hoare-Logic-Algorithm/blob/main/3.png)
+![4](https://github.com/CSPRJSV/COMP2111-A3-Hoare-Logic-Algorithm/blob/main/4.png)
+
+
 ================================================
 
 欢迎有需要辅导的同学dd～
